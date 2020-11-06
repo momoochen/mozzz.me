@@ -1,0 +1,27 @@
+html {
+  box-sizing: border-box;
+  font-family: 'Crimson Text', serif;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0 auto;
+  font-size: 16px;
+  color: black;
+  background-image: url("../imgs/2020-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+body h1 {
+  font-size: 18px;
+  padding: 0 50px;
+  font-weight: 100;
+  color: black;
+}

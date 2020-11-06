@@ -30,6 +30,7 @@ import Pomodoro from './views/Pomodoro'
 import MusicPlayer from './views/MusicPlayer'
 import TodoList from './views/TodoList'
 import JyjGolf from './views/JyjGolf'
+import SavageCamping from './views/SavageCamping'
 
 Vue.use(Router)
 
@@ -185,6 +186,11 @@ export default new Router({
       path: '/jyj-golf',
       component: JyjGolf,
       alias: '/project/jyj-golf'
+    },
+    {
+      path: '/savage-camping',
+      component: SavageCamping,
+      alias: '/project/savage-camping'
     }
   ]
 })

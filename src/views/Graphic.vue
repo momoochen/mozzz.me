@@ -21,9 +21,9 @@ export default {
           subtitle: 'Brand'
         },
         {
-          url: '/mer-fragrance',
-          imageUrl: 'mer/mer-cover.jpg',
-          title: '野人迷露',
+          url: '/savage-camping',
+          imageUrl: 'savage-camping/savage-camping-cover.jpg',
+          title: 'Savage Camping',
           subtitle: 'Illustration'
         },
         {

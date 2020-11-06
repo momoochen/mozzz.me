@@ -20,8 +20,8 @@ export default {
     return {
       projectSkill: ['Html', 'CSS', 'Vue', 'Illustration', 'Phaser'],
       projectImages: [
-        'comicbooks-selector/comicbooks-selector-01.jpg',
-        'comicbooks-selector/comicbooks-selector-02.gif'
+        'comicbooks-selector/comicbooks-selector-01.jpg'
+        // 'comicbooks-selector/comicbooks-selector-02.gif'
       ]
     }
   }

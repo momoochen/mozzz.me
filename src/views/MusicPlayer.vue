@@ -21,8 +21,8 @@ export default {
       projectSkill: ['Html', 'CSS', 'JavaScript'],
       projectImages: [
         'music-player/music-player-01.jpg',
-        'music-player/music-player-02.jpg',
-        'music-player/musicplayer.gif'
+        'music-player/music-player-02.jpg'
+        // 'music-player/musicplayer.gif'
       ]
     }
   }
