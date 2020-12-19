@@ -31,11 +31,13 @@ import MusicPlayer from './views/MusicPlayer'
 import TodoList from './views/TodoList'
 import JyjGolf from './views/JyjGolf'
 import SavageCamping from './views/SavageCamping'
+import Wudenjiang from './views/WudenJiang'
 
 Vue.use(Router)
 
 export default new Router({
   mode: 'history',
+  // base: 'mozzz.me',
   routes: [
     {
       path: '/',
@@ -191,6 +193,11 @@ export default new Router({
       path: '/savage-camping',
       component: SavageCamping,
       alias: '/project/savage-camping'
+    },
+    {
+      path: '/wudenjiang',
+      component: Wudenjiang,
+      alias: '/project/Wudenjiang'
     }
   ]
 })

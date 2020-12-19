@@ -15,10 +15,10 @@ export default {
     return {
       projects: [
         {
-          url: '/mask-map',
-          imageUrl: 'maskmap/maskmap-cover.jpg',
-          title: '五燈獎豬腳滷肉飯',
-          subtitle: 'Website / RWD'
+          url: '/Wudenjiang',
+          imageUrl: 'Wudenjiang/Wuden-cover.jpg',
+          title: 'Wu Den Jiang',
+          subtitle: 'Official Website'
         },
         {
           url: '/mask-map',

@@ -15,6 +15,12 @@ export default {
     return {
       projects: [
         {
+          url: '/Wudenjiang',
+          imageUrl: 'Wudenjiang/Wuden-cover.jpg',
+          title: 'Wu Den Jiang',
+          subtitle: 'Official Website'
+        },
+        {
           url: '/todolist',
           imageUrl: 'todolist/todolist-cover.jpg',
           title: 'Todo List',
