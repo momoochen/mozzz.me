@@ -15,8 +15,8 @@ export default {
     return {
       projects: [
         {
-          url: '/Wudenjiang',
-          imageUrl: 'Wudenjiang/Wuden-cover.jpg',
+          url: '/wudenjiang',
+          imageUrl: 'wudenjiang/wuden-cover.jpg',
           title: 'Wu Den Jiang',
           subtitle: 'Official Website'
         },

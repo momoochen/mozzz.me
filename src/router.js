@@ -31,7 +31,7 @@ import MusicPlayer from './views/MusicPlayer'
 import TodoList from './views/TodoList'
 import JyjGolf from './views/JyjGolf'
 import SavageCamping from './views/SavageCamping'
-import Wudenjiang from './views/WudenJiang'
+import WudenJiang from './views/WudenJiang'
 
 Vue.use(Router)
 
@@ -196,7 +196,7 @@ export default new Router({
     },
     {
       path: '/wudenjiang',
-      component: Wudenjiang,
+      component: WudenJiang,
       alias: '/project/Wudenjiang'
     }
   ]

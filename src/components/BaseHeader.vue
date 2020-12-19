@@ -30,11 +30,6 @@ export default {
           title: 'CODING',
           link: '/coding'
         }
-        // {
-        //   index: '4',
-        //   title: 'PROJECTS',
-        //   link: '/projects'
-        // }
       ]
     }
   }

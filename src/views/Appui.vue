@@ -14,30 +14,24 @@ export default {
   data() {
     return {
       projects: [
-        {
-          url: '/Wudenjiang',
-          imageUrl: 'Wudenjiang/Wuden-cover.jpg',
-          title: 'Wu Den Jiang',
-          subtitle: 'Official Website'
-        },
-        {
-          url: '/mask-map',
-          imageUrl: 'maskmap/maskmap-cover.jpg',
-          title: 'Abiga',
-          subtitle: 'Website / RWD'
-        },
-        {
-          url: '/mask-map',
-          imageUrl: 'maskmap/maskmap-cover.jpg',
-          title: '科學生',
-          subtitle: 'Website / RWD'
-        },
-        {
-          url: '/mask-map',
-          imageUrl: 'maskmap/maskmap-cover.jpg',
-          title: 'Mask Map',
-          subtitle: 'Website / RWD'
-        },
+        // {
+        //   url: '/mask-map',
+        //   imageUrl: 'maskmap/maskmap-cover.jpg',
+        //   title: 'Abiga',
+        //   subtitle: 'Website / RWD'
+        // },
+        // {
+        //   url: '/mask-map',
+        //   imageUrl: 'maskmap/maskmap-cover.jpg',
+        //   title: '科學生',
+        //   subtitle: 'Website / RWD'
+        // },
+        // {
+        //   url: '/mask-map',
+        //   imageUrl: 'maskmap/maskmap-cover.jpg',
+        //   title: 'Mask Map',
+        //   subtitle: 'Website / RWD'
+        // },
         {
           url: '/instoapp',
           imageUrl: 'insto/insto-cover.jpg',

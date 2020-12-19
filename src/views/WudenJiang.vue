@@ -2,8 +2,8 @@
   <DetailView 
     :project-skill="projectSkill"
     :project-images="projectImages"
-    image-url="wudenjaing/wuden-cover.jpg"
-    project-title="Wu Den Jaing"
+    image-url="wudenjiang/wuden-cover.jpg"
+    project-title="Wu Den Jiang"
     project-text="Client: 五燈獎豬腳滷肉飯 Wu Den Jaing"
     project-date="2020"
   />
@@ -20,9 +20,9 @@ export default {
     return {
       projectSkill: ['Graphic Design', 'Web Design'],
       projectImages: [
-        'wudenjaing/wuden-01.jpg',
-        'wudenjaing/wuden-02.jpg',
-        'wudenjaing/wuden-03.jpg'
+        'wudenjiang/wuden-01.jpg',
+        'wudenjiang/wuden-02.jpg',
+        'wudenjiang/wuden-03.jpg'
       ]
     }
   }
