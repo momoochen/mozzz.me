@@ -6,7 +6,7 @@
         target="blank"
       >Facebook</a>
       <a 
-        href="https://www.linkedin.com/in/momochen/" 
+        href="https://www.linkedin.com/in/mollie-chen/" 
         target="blank"
       >LinkedIn</a>
       <a 
