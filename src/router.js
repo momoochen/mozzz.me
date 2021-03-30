@@ -32,6 +32,8 @@ import TodoList from './views/TodoList'
 import JyjGolf from './views/JyjGolf'
 import SavageCamping from './views/SavageCamping'
 import WudenJiang from './views/WudenJiang'
+import ElmaArt from './views/ElmaArt'
+import Aibiga from './views/Aibiga'
 
 Vue.use(Router)
 
@@ -198,6 +200,16 @@ export default new Router({
       path: '/wudenjiang',
       component: WudenJiang,
       alias: '/project/Wudenjiang'
+    },
+    {
+      path: '/aibiga',
+      component: Aibiga,
+      alias: '/project/aibiga'
+    },
+    {
+      path: '/elma-art',
+      component: ElmaArt,
+      alias: '/project/elma-art'
     }
   ]
 })

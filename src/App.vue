@@ -88,7 +88,7 @@ export default {
     height: 30px;
     width: 30px;
     cursor: pointer;
-    transition: .8s ease-in-out;
+    transition: 0.8s ease-in-out;
     transform-origin: 50% 50%;
     &:hover {
       transform: rotate(90deg);

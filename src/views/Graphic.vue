@@ -15,6 +15,12 @@ export default {
     return {
       projects: [
         {
+          url: '/elma-art',
+          imageUrl: 'elma-art/elma-art-cover.jpg',
+          title: 'Elma Art Studio',
+          subtitle: 'Brand'
+        },
+        {
           url: '/jyj-golf',
           imageUrl: 'JYJ/JYJ-cover.jpg',
           title: 'JYJ Golf',
