@@ -38,7 +38,7 @@ import Aibiga from './views/Aibiga'
 Vue.use(Router)
 
 export default new Router({
-  mode: 'history',
+  mode: 'hash',
   // base: 'mozzz.me',
   routes: [
     {

@@ -51,7 +51,7 @@ export default {
           subtitle: 'Website / RWD'
         },
         {
-          url: '',
+          url: '/fju-art-gallery',
           imageUrl: 'fju/fju-cover.jpg',
           title: 'FJU Art Gallery',
           subtitle: 'Brand / Website'
