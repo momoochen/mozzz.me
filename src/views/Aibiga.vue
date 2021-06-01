@@ -2,7 +2,7 @@
   <DetailView 
     :project-skill="projectSkill"
     :project-images="projectImages"
-    image-url=""
+    image-url="abiga/abiga-cover.jpg"
     project-title="Aibiga"
     project-text="Client: Azaburu.com"
     project-date="2020"
@@ -19,7 +19,11 @@ export default {
   data() {
     return {
       projectSkill: ['Web Design'],
-      projectImages: []
+      projectImages: [
+        'abiga/abiga-01.jpg',
+        'abiga/abiga-02.jpg',
+        'abiga/abiga-03.jpg'
+      ]
     }
   }
 }
