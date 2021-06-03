@@ -17,15 +17,15 @@ export default {
         // {
         //   url: '/mask-map',
         //   imageUrl: 'maskmap/maskmap-cover.jpg',
-        //   title: 'Abiga',
-        //   subtitle: 'Website / RWD'
+        //   title: 'insto tap',
+        //   subtitle: 'Brand / Website / RWD / App'
         // },
-        // {
-        //   url: '/mask-map',
-        //   imageUrl: 'maskmap/maskmap-cover.jpg',
-        //   title: '科學生',
-        //   subtitle: 'Website / RWD'
-        // },
+        {
+          url: '/science-student',
+          imageUrl: 'science-student/science-student-cover.jpg',
+          title: '科學生',
+          subtitle: 'Website / RWD'
+        },
         {
           url: '/aibiga',
           imageUrl: 'abiga/abiga-cover.jpg',

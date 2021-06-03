@@ -34,6 +34,7 @@ import SavageCamping from './views/SavageCamping'
 import WudenJiang from './views/WudenJiang'
 import ElmaArt from './views/ElmaArt'
 import Aibiga from './views/Aibiga'
+import ScienceStudent from './views/ScienceStudent'
 
 Vue.use(Router)
 
@@ -210,6 +211,11 @@ export default new Router({
       path: '/elma-art',
       component: ElmaArt,
       alias: '/project/elma-art'
+    },
+    {
+      path: '/science-student',
+      component: ScienceStudent,
+      alias: '/project/science-student'
     }
   ]
 })
