@@ -21,6 +21,12 @@ export default {
         //   subtitle: 'Brand / Website / RWD / App'
         // },
         {
+          url: '/insto-tap',
+          imageUrl: 'insto-tap/insto-tap-cover.jpg',
+          title: 'INSTO Tap',
+          subtitle: 'Brand / App / Website / RWD'
+        },
+        {
           url: '/science-student',
           imageUrl: 'science-student/science-student-cover.jpg',
           title: '科學生',
@@ -35,7 +41,7 @@ export default {
         {
           url: '/instoapp',
           imageUrl: 'insto/insto-cover.jpg',
-          title: 'insto',
+          title: 'INSTO',
           subtitle: 'Brand / App / Website / RWD'
         },
         {

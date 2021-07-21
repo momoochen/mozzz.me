@@ -35,6 +35,7 @@ import WudenJiang from './views/WudenJiang'
 import ElmaArt from './views/ElmaArt'
 import Aibiga from './views/Aibiga'
 import ScienceStudent from './views/ScienceStudent'
+import InstoTapApp from './views/InstoTapApp'
 
 Vue.use(Router)
 
@@ -216,6 +217,11 @@ export default new Router({
       path: '/science-student',
       component: ScienceStudent,
       alias: '/project/science-student'
+    },
+    {
+      path: '/insto-tap',
+      component: InstoTapApp,
+      alias: '/project/insto-tap-design'
     }
   ]
 })

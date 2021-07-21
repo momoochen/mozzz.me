@@ -56,9 +56,9 @@ header {
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(255, 255, 255, 0.65);
-    filter: blur(8px);
-    -webkit-filter: blur(8px);
+    background: rgba(255, 255, 255, 0.9);
+    filter: blur(6px);
+    -webkit-filter: blur(6px);
     z-index: -1;
   }
 }
