@@ -36,6 +36,7 @@ import ElmaArt from './views/ElmaArt'
 import Aibiga from './views/Aibiga'
 import ScienceStudent from './views/ScienceStudent'
 import InstoTapApp from './views/InstoTapApp'
+import Mydepot from './views/Mydepot'
 
 Vue.use(Router)
 
@@ -222,6 +223,11 @@ export default new Router({
       path: '/insto-tap',
       component: InstoTapApp,
       alias: '/project/insto-tap-design'
+    },
+    {
+      path: '/mydepot-design',
+      component: Mydepot,
+      alias: '/project/my-depot-design'
     }
   ]
 })

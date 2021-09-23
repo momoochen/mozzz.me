@@ -14,12 +14,12 @@ export default {
   data() {
     return {
       projects: [
-        // {
-        //   url: '/mask-map',
-        //   imageUrl: 'maskmap/maskmap-cover.jpg',
-        //   title: 'insto tap',
-        //   subtitle: 'Brand / Website / RWD / App'
-        // },
+        {
+          url: '/mydepot-design',
+          imageUrl: 'mydepot/mydepot-cover.jpg',
+          title: 'Mydepot',
+          subtitle: 'Website / RWD'
+        },
         {
           url: '/insto-tap',
           imageUrl: 'insto-tap/insto-tap-cover.jpg',
