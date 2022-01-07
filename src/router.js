@@ -37,6 +37,7 @@ import Aibiga from './views/Aibiga'
 import ScienceStudent from './views/ScienceStudent'
 import InstoTapApp from './views/InstoTapApp'
 import Mydepot from './views/Mydepot'
+import Zuoda from './views/Zuoda'
 
 Vue.use(Router)
 
@@ -228,6 +229,11 @@ export default new Router({
       path: '/mydepot-design',
       component: Mydepot,
       alias: '/project/my-depot-design'
+    },
+    {
+      path: '/zuoda-studio',
+      component: Zuoda,
+      alias: '/project/zuoda-studio'
     }
   ]
 })

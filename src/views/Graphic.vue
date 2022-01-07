@@ -15,6 +15,12 @@ export default {
     return {
       projects: [
         {
+          url: '/zuoda-studio',
+          imageUrl: 'zuoda/zuoda-cover.jpg',
+          title: 'ZUODA Studio',
+          subtitle: 'Brand'
+        },
+        {
           url: '/elma-art',
           imageUrl: 'elma-art/elma-art-cover.jpg',
           title: 'Elma Art Studio',
