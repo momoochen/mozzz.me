@@ -5,7 +5,7 @@
     image-url="mydepot/mydepot-cover.jpg"
     project-title="Mydepot"
     project-text="client: Mydepot"
-    project-date="2020~2021"
+    project-date="2020~2022"
   />
 </template>
 
@@ -23,7 +23,8 @@ export default {
         'mydepot/mydepot-01.jpg',
         'mydepot/mydepot-02.jpg',
         'mydepot/mydepot-03.jpg',
-        'mydepot/mydepot-04.jpg'
+        'mydepot/mydepot-04.jpg',
+        'mydepot/mydepot-05.jpg'
       ]
     }
   }
