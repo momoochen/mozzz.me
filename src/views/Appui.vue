@@ -1,8 +1,5 @@
 <template>
-  <ListView
-    :projects="projects" 
-    list-title="UI Design" 
-  />
+  <ListView :projects="projects" list-title="UI Design" />
 </template>
 
 <script>
@@ -104,5 +101,4 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>

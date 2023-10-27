@@ -2,36 +2,37 @@
   <div id="detailview">
     <div id="about">
       <div class="maincover">
-        <img 
-          :src="require(`../assets/imgs/${imageUrl}`)" 
+        <img
+          :src="require(`../assets/imgs/${imageUrl}`)"
           class="maincover__image"
-        >
+        />
       </div>
       <div class="container">
         <div class="container-wrapper">
-          <div class="name">{{ projectTitle }}</div>
-          <div class="time-tag">{{ projectDate }}</div>
-          <div class="description">{{ projectText }}</div>
+          <div class="name">
+            {{ projectTitle }}
+          </div>
+          <div class="time-tag">
+            {{ projectDate }}
+          </div>
+          <div class="description">
+            {{ projectText }}
+          </div>
           <div class="skill-wrapper">
-            <div 
-              v-for="(skill, index) in projectSkill" 
-              :key="index" 
+            <div
+              v-for="(skill, index) in projectSkill"
+              :key="index"
               class="skill"
-            >{{ skill }}</div>
+            >
+              {{ skill }}
+            </div>
           </div>
         </div>
       </div>
     </div>
-    <div 
-      v-for="(imageUrl, index) in projectImages" 
-      :key="index" 
-      class="gallery"
-    >
+    <div v-for="(url, index) in projectImages" :key="index" class="gallery">
       <div class="gallery__wrapper">
-        <img 
-          :src="require(`../assets/imgs/${imageUrl}`)" 
-          class="gallery__image"
-        >
+        <img :src="require(`../assets/imgs/${url}`)" class="gallery__image" />
       </div>
     </div>
   </div>

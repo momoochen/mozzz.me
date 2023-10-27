@@ -1,5 +1,5 @@
 <template>
-  <DetailView 
+  <DetailView
     :project-skill="projectSkill"
     :project-images="projectImages"
     image-url="roastin/roastin-cover.jpg"
@@ -31,5 +31,4 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>

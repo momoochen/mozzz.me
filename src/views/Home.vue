@@ -4,7 +4,7 @@
       <div class="photo" />
       <div class="title-animation">
         I am Mollie Chen,
-        <br>a UI Designer, based in Taipei Taiwan.
+        <br />a UI Designer, based in Taipei Taiwan.
       </div>
       <!-- <div class="name">Hello, there</div> -->
       <!-- <div class="description">
@@ -20,28 +20,55 @@
       </div> -->
       <div class="description">
         { Professional Skills }
-        <br>
-        <div class="skill">＃HTML & CSS</div>
-        <div class="skill">＃Graphic Design</div>
-        <div class="skill">＃Brand Design</div>
-        <div class="skill">＃Packaging Design</div>
-        <div class="skill">＃UI & UX Design</div>
-        <div class="skill">＃App Design</div>
-        <div class="skill">＃Web Design</div>
+        <br />
+        <div class="skill">
+          ＃HTML & CSS
+        </div>
+        <div class="skill">
+          ＃Graphic Design
+        </div>
+        <div class="skill">
+          ＃Brand Design
+        </div>
+        <div class="skill">
+          ＃Packaging Design
+        </div>
+        <div class="skill">
+          ＃UI & UX Design
+        </div>
+        <div class="skill">
+          ＃App Design
+        </div>
+        <div class="skill">
+          ＃Web Design
+        </div>
       </div>
       <div class="description">
         { Software Skills }
-        <br>
-        <div class="software-skill">＃Visual Studio Code</div>
-        <div class="software-skill">＃Sketch / Zeplin</div>
-        <div class="software-skill">＃Photoshop</div>
-        <div class="software-skill">＃Illustrator</div>
-        <div class="software-skill">＃Indesign</div>
-        <div class="software-skill">＃After Effect</div>
+        <br />
+        <div class="software-skill">
+          ＃Visual Studio Code
+        </div>
+        <div class="software-skill">
+          ＃Sketch / Zeplin
+        </div>
+        <div class="software-skill">
+          ＃Photoshop
+        </div>
+        <div class="software-skill">
+          ＃Illustrator
+        </div>
+        <div class="software-skill">
+          ＃Indesign
+        </div>
+        <div class="software-skill">
+          ＃After Effect
+        </div>
       </div>
       <p>
-        He restoreth my soul: he guideth me in the paths of righteousness for his name's sake.
-        <br>Psalm 23:3
+        He restoreth my soul: he guideth me in the paths of righteousness for
+        his name's sake.
+        <br />Psalm 23:3
       </p>
     </div>
   </div>

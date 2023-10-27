@@ -5,7 +5,7 @@ import store from '@/store'
 import '@/assets/sass/main.scss'
 import vSelect from 'vue-select'
 
-Vue.component('v-select', vSelect)
+Vue.component('VSelect', vSelect)
 Vue.config.productionTip = false
 
 new Vue({

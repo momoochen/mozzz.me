@@ -1,15 +1,13 @@
 <template>
   <div id="listview">
     <div class="list__inner">
-      <router-link 
-        v-for="(project, index) in projects"  
+      <router-link
+        v-for="(project, index) in projects"
         :key="index"
-        :to= "project.url"
+        :to="project.url"
       >
         <div class="project">
-          <img 
-            :src="require(`../assets/imgs/${project.imageUrl}`)"
-          >
+          <img :src="require(`../assets/imgs/${project.imageUrl}`)" />
           <div class="title-wrapper">
             <div class="project-title">
               {{ project.title }}
@@ -21,7 +19,8 @@
         </div>
       </router-link>
     </div>
-</div></template>
+  </div>
+</template>
 
 <script>
 export default {

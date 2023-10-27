@@ -7,7 +7,9 @@
         :key="index"
         :to="tab.link"
         class="tab"
-      >{{ tab.title }}</router-link>
+      >
+        {{ tab.title }}
+      </router-link>
     </div>
   </div>
 </template>

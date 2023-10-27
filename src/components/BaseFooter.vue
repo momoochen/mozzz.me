@@ -1,18 +1,11 @@
 <template>
   <div class="footer-banner">
     <div class="social-media">
-      <a 
-        href="https://www.facebook.com/momoochen" 
-        target="blank"
-      >Facebook</a>
-      <a 
-        href="https://www.linkedin.com/in/mollie-chen/" 
-        target="blank"
-      >LinkedIn</a>
-      <a 
-        href="https://github.com/momoochen" 
-        target="blank"
-      >GitHub</a>
+      <a href="https://www.facebook.com/momoochen" target="_blank">Facebook</a>
+      <a href="https://www.linkedin.com/in/mollie-chen/" target="_blank">
+        LinkedIn
+      </a>
+      <a href="https://github.com/momoochen" target="_blank">GitHub</a>
     </div>
   </div>
 </template>

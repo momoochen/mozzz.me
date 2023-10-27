@@ -1,5 +1,5 @@
 <template>
-  <DetailView 
+  <DetailView
     :project-skill="projectSkill"
     :project-images="projectImages"
     image-url="lingo-wedding/lingo-cover-1.jpg"
@@ -29,5 +29,4 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>
