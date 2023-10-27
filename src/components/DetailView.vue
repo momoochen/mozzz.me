@@ -65,9 +65,6 @@ export default {
       type: String,
       default: ''
     }
-  },
-  created() {
-    console.log(this.url)
   }
 }
 </script>
