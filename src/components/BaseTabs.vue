@@ -62,15 +62,14 @@ export default {
     margin-right: 0px;
   }
   &:hover {
-    color: #beac83;
-    border-bottom: 4px solid #beac83;
+    border-bottom: 4px solid black;
   }
 }
 
 a {
   text-decoration: none;
   &:focus {
-    border-bottom: 4px solid #beac83;
+    border-bottom: 4px solid black;
   }
 }
 </style>

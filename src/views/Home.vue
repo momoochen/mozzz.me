@@ -80,7 +80,7 @@ export default {}
 
 <style lang="scss" scoped>
 #home {
-  padding-top: 100px;
+  padding-top: 50px;
 }
 .container {
   cursor: default;
@@ -131,7 +131,8 @@ export default {}
     font-size: 12px;
     padding: 4px 8px;
     border-radius: 4px;
-    background: #beac83;
+    color: white;
+    background: black;
     display: inline-block;
     margin: 20px 6px 0;
   }
@@ -139,7 +140,8 @@ export default {}
     font-size: 13px;
     padding: 4px 8px;
     border-radius: 4px;
-    background: #beac83;
+    color: white;
+    background: black;
     display: inline-block;
     margin: 20px 6px 0;
   }

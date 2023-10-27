@@ -13,7 +13,7 @@ body {
   margin: 0 auto;
   font-size: 16px;
   color: black;
-  background-image: url("../imgs/2020-bg.jpg");
+  background-image: url("../imgs/2020-bg.jpg"); 
   background-size: cover;
   background-position: center;
   background-attachment: fixed;

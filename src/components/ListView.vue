@@ -98,7 +98,7 @@ export default {
         text-align: center;
         opacity: 0;
         transition: all 1s ease-in-out;
-        background: #beac83;
+        background: black;
       }
       .project-title {
         font-size: 20px;
